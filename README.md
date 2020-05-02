@@ -1,2 +1,5 @@
 # js-tetris
-A Tetris game made using Vanilla JS
+A vanilla JS Tetris game
+
+# Site:
+https://vanilla-js-tetris.netlify.app/
